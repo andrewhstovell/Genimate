@@ -1,12 +1,10 @@
-from PIL import Image, ImageDraw, ImageFont
-from IPython.display import display
+from PIL import Image
 from shutil import rmtree
 from os import path, mkdir, listdir, system
 from dataclasses import dataclass
 import sys
 import csv
 import random
-import subprocess
 
 ## CONFIGURATION
 # Change these
@@ -65,7 +63,6 @@ traits = [
         ["Smile", "Grumpy", "Neutral", "Cute"], 
         [30, 30, 20, 20]),
 ]
-
 
 
 ## Generate Traits

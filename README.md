@@ -24,7 +24,7 @@ With the main difference being that this is intended to produce animated images.
 2. Navigate to the directory in your CLI (or `right-click + open terminal here` in the folder on Windows)
 3. Type/paste `Done!" when done
 
-![screenshot of steps 2 to 3]() TO DO
+![screenshot of steps 2 to 3](https://github.com/andrewhstovell/Genimate/blob/main/doc/screenshot.png)
 
 4. Check the newly created ***./collection/*** folder and contents that have been created. Remember to look at the metadata file.
 
@@ -77,7 +77,7 @@ traits = [
         [30, 30, 20, 20]),
 ]
 ```
-* Run the program, and generate your Images and Metadata
+* Run the program, and generate your Animated Images and Metadata
 * Run the program again until your batch of NFT's is just right!
 
 ## Testing
@@ -94,3 +94,6 @@ Feel free to create an issue ticket, i will try to address as soon as possible
 ----
 > *Want to toss some Mojo's or an NFT at the Andy?* <br/>
 `xch1pelfpwqtnn0waj6vkrvdn7v8cx7h93gjmknakhq58hhrnlhqmk9s8xv64r`
+
+
+> *Check out my collection, Proof of Synth and Time on [dexie.space](https://dexie.space/offers/col1a3stfulcehl4d4fam0w73c0mde8ws4c7k5l85fd54r45gkfhp7hswuuysv/xch) or [MintGarden](https://mintgarden.io/collections/proof-of-synth-and-time-col1a3stfulcehl4d4fam0w73c0mde8ws4c7k5l85fd54r45gkfhp7hswuuysv)*
