@@ -1,0 +1,20 @@
+When you are ready, delete the example components in this directory 
+and place your image components here using the same folder structuring.
+
+Trait_Type_1
+- Trait A
+-- Frames for Trait A
+- Trait B
+-- Frames for Trait B
+- Trait C
+-- Frames for Trait C
+
+Trait_Type_2
+- Trait A
+-- Frames for Trait A
+- Trait B
+-- Frames for Trait B
+- Trait C
+-- Frames for Trait C
+
+etc..
